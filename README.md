@@ -1,2 +1,2 @@
-# minerl-2020
-minerl project
+# MineRL 2020
+minerl project https://minerl.io/
